@@ -6,8 +6,11 @@ installing Mysql and created table with time log
 <img width="694" alt="Screenshot 2024-11-28 at 11 06 49 AM" src="https://github.com/user-attachments/assets/a1bc7738-42e4-40b1-b4d0-66666e0b022a">
 
 
+downloading go and mysql essential packages and connnecting go with MySQL
+
 <img width="1470" alt="Screenshot 2024-11-28 at 11 11 33 AM" src="https://github.com/user-attachments/assets/e1c9ae16-6089-4afb-8739-6c6a16addeca">
 <img width="1470" alt="Screenshot 2024-11-28 at 11 12 17 AM" src="https://github.com/user-attachments/assets/36ee82af-c4bf-4f49-92db-7c2fca46e75c">
+
 
 testing
 
